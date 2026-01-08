@@ -1,4 +1,3 @@
-**WIP**
 # Lucas Vilche
 
 ## About
