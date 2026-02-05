@@ -1,7 +1,7 @@
 # Lucas Vilche
 
 ## About
-- Junior Python / Back-End Developer
+- Junior Python / Full-Stack Developer
 - Computer Science (UBA - CBC)
 - Focused on building solid programming foundations
 
